@@ -1,0 +1,4 @@
+a[href^="mailto:"] {
+  color: inherit;        /* same color as text */
+  text-decoration: none; /* removes underline */
+}
